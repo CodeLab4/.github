@@ -1,5 +1,6 @@
-## Hi there 👋
-https://github.com/CodeLab4
+## ⭐ CodeLab4
+
+🌈 CS와 알고리즘을 __로이, 코어, 버디, 고뭉남, 하나__ 가 함께 학습하고 있어요 <br>
 <!--
 
 **Here are some ideas to get you started:**
