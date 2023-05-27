@@ -1,6 +1,6 @@
 # ⭐ Lab4 
 
-🌈 코드스쿼드에서 만난 __로이, 코어, 버디, 고뭉남, 하나__ 가 CS와 알고리즘 을 함께 학습하고 있어요. <br>
+🌈 코드스쿼드에서 만난 [로이](https://github.com/lvalentine6) , [코어](https://github.com/meena2003) , [버디](https://github.com/birdieHyun), [고뭉남](https://github.com/KOKEONHO), [하나](https://github.com/dokkisan) 가 CS와 알고리즘 을 함께 학습하고 있어요. <br>
 
 🙋‍ 개인 블로그    
 [로이](https://rovictory.tistory.com/)  
