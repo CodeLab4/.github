@@ -5,7 +5,7 @@
 🙋‍ 개인 블로그    
 [로이](https://rovictory.tistory.com/)  
 [고뭉남](https://velog.io/@gobongyeol)   
-[버디]()   
+[버디](https://velog.io/@flaehdan)   
 [코어](https://hellomycoding.tistory.com/)   
 [하나](https://esgibtnureins.tistory.com/)
 <!--
